@@ -93,7 +93,7 @@
 
                     <div class="form-group">
                         <label class="fw-bold">Фото</label>
-                        <input id="photo" type="image" src="#" style="width: 100%">
+                        <img id="photo" type="image" src="#" style="width: 100%">
                     </div>
 
                     <div class="form-group">
